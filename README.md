@@ -2,10 +2,6 @@
 + software quality analyst
 + *bug hunter*
 + based near Karlsruhe, Germany
-  
-> team enrichment, boss nightmare 🤪
-
-`drop database labor`
 
 [Python Standard Library](https://docs.python.org/3/library/index.html#library-index)
 
